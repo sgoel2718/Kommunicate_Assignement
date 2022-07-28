@@ -1,0 +1,31 @@
+Project - NGO website to help cancer patients
+I made one project which is for NGO purpose where anyone can donate any amount of money which will directly go to NGO and they will the cancer patients
+
+MY BEST PROJECT (Ongoing):
+
+Two Projects:
+
+1. Instant Access To HealthCare
+    => This project will have many things like:
+    (i) - Diseases based on symptoms 
+        Here, in this section, All the diseases from small to big will be mentioned in our site and all the verified details will be mentioned here by doctors. No one has to go to other sites as many sites contains some irrelevant details also. There are many trust issues also.
+    (ii) - Nearest Hospital 
+        This is an important section, which will tell for this particular disease or particular problem, nearest hospital will be displayed on the screen with all the details of hospitals and they can easily list out in which hospital one can go or they can ask for emergency help also from that particular hospital. This section will be very helpful for everyone.
+    (iii) - Doctor Consultancy (modified version)
+        In this section, patients will make an account on our website, and then based on the problem they can list out the hospitals as mentioned above, then they can send request to hospital , their request will be accepted by the hospital management and based on the problem patient have, they will be directly connected to the doctors, there will be a video chatting and calling facility where they can tell doctor about their problem and then doctor will write down the prescription and the prescription will be send to the management and they upload it on users account and doctor can also see the past prescriptions of patients before uploading the prescription payment has to be made by the patient.
+        This section is for those who cannot go to hospital as it is far away and in case of emergency also. This will be very helpful especially for villagers where hospitals are located far away.
+    (iv) - Past Records
+        Patients can always see their past prescriptions in this section.
+
+    (MANY MORE WILL BE ADDED AS PER FACILITIES AND REQUIREMENTS.... )
+
+2. Smart City Project 
+    => This project will have three parts basically to help people and it will be available city-wise, and it will consist of three sections:
+    (i) - Job-Seekers 
+       There are many portals available to apply for jobs but many of them are not trusted also so, in this site, there will be option for filtering in which jobseekers can apply filter like city, skills, salary range and based on that company names will be displayed with rating-wise and they can apply for the particular company which they like.
+    (ii) - Education 
+       In this section, for each and every city, there will be a list of schools and colleges based on their rating provided by the students of that particular school and college. Every school and college will have a particular fee structure which will be displayed there. In villages and in cities also, people do not know which school are best for their children and which one will be nearer and which one will be costly or cheaper.
+    
+    (MANY MORE WILL BE ADDED.... )
+
+
